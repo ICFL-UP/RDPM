@@ -12,6 +12,15 @@ Ransomware Detection Using Process Memory
 
 - features.xlsx -> The dataset itself
 
+# Accuracy
+
+| TECHNIQUE    | Decision Tree | Tree Ensemble | Random Forest | Naive Bayes | XGBoost   | Gradient Boosted Tree | Support Vector Machine | Neural Network |
+| ------------ | ------------- | ------------- | ------------- | ----------- | --------- | --------------------- | ---------------------- | -------------- |
+| Accuracy (%) | 93.62         | 95.74         | 95.21         | 81.38       | **96.28** | 94.68                 | 85.64                  | 93.62          |
+
+# ROC
+ ![ROC](ROC.png)
+
 
 
 
